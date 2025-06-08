@@ -18,3 +18,12 @@ Program ini juga mengenalkan konsep **list** sebagai cara menyimpan kumpulan dat
 1. Jalankan program:
    ```bash
    python input_user_statistics.py
+
+## Contoh output
+Masukan Angka Pilihan Lo Yang Pertama : 10
+Masukan Angka PIlihan Lo Yang Kedua : 20
+Masukan Angka Pilihan Lo Yang Ketiga : 30
+Jumlah      : 60
+Rata - rata : 20.0
+Maksimum    : 30
+Minimum     : 10
